@@ -33,7 +33,7 @@ export class Provider extends Component {
       axios({
         mode: 'cors',	    
         method: 'get',	    
-      //   url: 'https://api.schooldigger.com/v1.1/schools?st=CA&q=lincol&appID=e770467e&appKey=ebae6b72365941495ce25dae7c101f98',
+        url: 'https://api.schooldigger.com/v1.1/schools?st=CA&q=lincol&appID=e770467e&appKey=ebae6b72365941495ce25dae7c101f98',
       //   headers: ,
       })
       // 
