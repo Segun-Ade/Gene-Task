@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import Rating from 'react-star-rating-lite';
 import { Wrapper, Box1, Box2 } from './Grid';
-import MusicBg from '../../assets/music-bg.jpeg';
 import SchBg from '../../assets/sch.jpg';
 import SchoolResult from './SchoolResult';
 import Footer from './Footer';
