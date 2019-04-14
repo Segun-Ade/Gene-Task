@@ -1,5 +1,5 @@
 {
-  "name": "geneTask",
+  "name": "genetask",
   "version": "1.0.0",
   "description": "a school search engine using the schoolDigger API",
   "main": "src/index.js",
@@ -8,7 +8,6 @@
     "build": "webpack",
     "test": "jest"
   },
-  "proxy": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Segun-Ade/Gene-Task.git"
@@ -18,7 +17,7 @@
     "webpack",
     "schoolDigger"
   ],
-  "author": "",
+  "author": "Segun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Segun-Ade/Gene-Task/issues"
