@@ -8,10 +8,10 @@
     "build": "webpack",
     "test": "jest"
   },
-  "proxy": "https://api.deezer.com",
+  "proxy": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Segun-Ade/schoolSearch.git"
+    "url": "git+https://github.com/Segun-Ade/Gene-Task.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Segun-Ade/schoolSearch/issues"
+    "url": "https://github.com/Segun-Ade/Gene-Task/issues"
   },
-  "homepage": "https://github.com/Segun-Ade/schoolSearch#readme",
+  "homepage": "https://github.com/Segun-Ade/Gene-Task#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.1.0",
